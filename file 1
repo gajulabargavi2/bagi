@@ -1,1 +1,6 @@
 this is file1 of second repository
+git bash
+git init
+git add file name
+git commit -m "comit mssage"
+git push
